@@ -7,15 +7,19 @@ It is taught in spanish so that will be the language of the comments.
 
 - Mathematics for AI
 
-
-### **Subjects in progress:**
 - Optimization algorithms
+
 - Supervised learning
 
-### **Future subjects:**
 - Approximated reasoning
+
+### **Subjects in progress:**
 - Unsupervised learning
+- 
 - Neural networks and deep learing
+
+### **Future subjects:**
+
 - Reinforced learning
 
 -  Final MSc thesis
